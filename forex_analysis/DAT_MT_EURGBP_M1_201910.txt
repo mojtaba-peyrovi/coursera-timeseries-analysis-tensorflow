@@ -1,0 +1,23 @@
+HistData.com (c) 2012
+File: DAT_MT_EURGBP_M1_201910.csv Status Report
+
+Gap of 135s found between 20191001165959 and 20191001170221.
+Gap of 92s found between 20191001170221 and 20191001170400.
+Gap of 176s found between 20191002165956 and 20191002170258.
+Gap of 60s found between 20191003014226 and 20191003014333.
+Gap of 60s found between 20191006172248 and 20191006172354.
+Gap of 67s found between 20191006175028 and 20191006175142.
+Gap of 79s found between 20191006230234 and 20191006230400.
+Gap of 70s found between 20191007163529 and 20191007163645.
+Gap of 160s found between 20191009170109 and 20191009170355.
+Gap of 270s found between 20191010165951 and 20191010170428.
+Gap of 74s found between 20191013172228 and 20191013172348.
+Gap of 73s found between 20191013172611 and 20191013172731.
+Gap of 61s found between 20191014170245 and 20191014170353.
+Gap of 69s found between 20191021170348 and 20191021170503.
+Gap of 115s found between 20191022170102 and 20191022170303.
+Gap of 105s found between 20191024170217 and 20191024170408.
+Gap of 60s found between 20191025002307 and 20191025002414.
+
+Average tick interval: 5456 miliseconds.
+Maximum tick interval found: 270309 miliseconds.

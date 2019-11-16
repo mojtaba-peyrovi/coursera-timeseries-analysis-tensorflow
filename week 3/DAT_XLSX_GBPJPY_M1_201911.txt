@@ -1,0 +1,9 @@
+HistData.com (c) 2012
+File: DAT_XLSX_GBPJPY_M1_201911.csv Status Report
+
+Gap of 60s found between 20191101153545 and 20191101153651.
+Gap of 139s found between 20191104014108 and 20191104014333.
+Gap of 358s found between 20191107165956 and 20191107170601.
+
+Average tick interval: 5359 miliseconds.
+Maximum tick interval found: 358818 miliseconds.
